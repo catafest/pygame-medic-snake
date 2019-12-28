@@ -14,7 +14,7 @@ I made this game because I had a broken tooth and now I haven't found a dentist 
 Until I get the pain or I get to the dentist I started writing this game.
 
 This game comes with three players:
-- a human player can change the pils with the arrows keys;
+- a human player can change the pills with the arrows keys;
 - a computer player follow the virus player;
 - a threatening virus player with a random position;
 
